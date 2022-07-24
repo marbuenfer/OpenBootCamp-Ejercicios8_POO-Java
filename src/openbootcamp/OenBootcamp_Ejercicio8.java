@@ -1,10 +1,5 @@
 package openbootcamp;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 /**
  *
  * @author MARIA DEL CARMEN BUENESTADO FERNÁNDEZ
@@ -24,11 +19,7 @@ public class OenBootcamp_Ejercicio8 {
         persona1.setTelefono("957555525");
         
         //mostramos valores asignados
-        
-        
         System.out.println(persona1.toString());
-       
-        
     }
 
 }
